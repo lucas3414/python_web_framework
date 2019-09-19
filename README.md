@@ -1,0 +1,4 @@
+# python_web_framework
+这是一个关于python的WebUI自动化测试的项目，之前用的是unittest测试框架，现在改成pytest测试框架，Python+PageObject+Pytest
+
+实现页面元素、页面对象及业务、测试数据分离
