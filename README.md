@@ -69,7 +69,6 @@
 以下是简单说明：
 
 case: pytest的参数化  fixture的使用  conftest全局和本地的配置
-
 conftest：测试类的前置和后置，单个测试用例的前置和后置
 @pytest.fixture(scope='class')
 def setUpDownClass():
@@ -93,7 +92,6 @@ def refresh_page():
 -------------------------------------------------------------------------------------------------------------------------------------
 
 测试用例:参数的正常和异常用例
-
 @pytest.mark.usefixtures('setUpDownClass')
 @pytest.mark.usefixtures('refresh_page')
 class TestLogin:
