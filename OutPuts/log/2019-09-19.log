@@ -1,0 +1,578 @@
+2019-09-19 10:05:49,926 - root - INFO - ==========开始执行测试用例集===========
+2019-09-19 10:06:00,381 - root - INFO -  执行 test_login_success 测试用例 
+2019-09-19 10:06:00,381 - root - INFO -  正常登录测试用例 
+2019-09-19 10:06:00,382 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/1input')
+2019-09-19 10:06:20,887 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/1input') 失败！！！
+2019-09-19 10:06:21,650 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录页面_登录功能_查找元素失败_2019-09-19_10_06_20.png
+2019-09-19 10:06:21,658 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/1input') 失败！！！
+2019-09-19 10:06:25,568 - root - INFO - ==========结束执行测试用例集===========
+2019-09-19 10:09:47,219 - root - INFO - ==========开始执行测试用例集===========
+2019-09-19 10:09:57,625 - root - INFO -  执行 test_login_success 测试用例 
+2019-09-19 10:09:57,626 - root - INFO -  正常登录测试用例 
+2019-09-19 10:09:57,626 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:09:57,648 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,654 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:09:57,671 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,671 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:09:57,684 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,732 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:09:57,747 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,753 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:09:57,766 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,767 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:09:57,780 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:09:57,827 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:09:57,842 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:09:57,848 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:09:57,860 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:09:57,860 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:09:57,872 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:09:57,911 - root - INFO - 期望值：True
+2019-09-19 10:09:58,435 - root - INFO - 实际值：True
+2019-09-19 10:09:58,449 - root - INFO -  结束执行 test_login_success 测试用例， 测试结果 --- PASS 
+2019-09-19 10:09:58,749 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-正常测试-正常截图_2019-09-19_10_09_58.png
+2019-09-19 10:10:02,136 - root - INFO - ==========结束执行测试用例集===========
+2019-09-19 10:10:04,214 - root - INFO - ==========开始执行测试用例集===========
+2019-09-19 10:10:14,608 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:10:14,629 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,635 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:10:14,651 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,651 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:10:14,665 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,713 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:10:14,728 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,734 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:10:14,746 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,746 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:10:14,759 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:14,806 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:10:14,822 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:10:14,828 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:10:14,840 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:10:14,840 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:10:14,851 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:10:16,950 - root - INFO -  执行 test_add_user 测试用例 
+2019-09-19 10:10:16,950 - root - INFO - 正常新增用户测试用例
+2019-09-19 10:10:16,950 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:10:16,992 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:10:16,999 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:10:17,011 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:10:17,012 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:10:17,024 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:10:17,073 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:10:17,603 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:10:17,608 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:10:17,621 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:10:17,622 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:10:17,635 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:10:17,702 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:10:17,719 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,726 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:10:17,738 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,738 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:10:17,750 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,825 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:10:17,842 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,848 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:10:17,860 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,861 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:10:17,874 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,967 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:10:17,985 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:17,991 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:10:18,004 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:18,005 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:10:18,017 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:10:18,103 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:10:18,119 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:10:18,125 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:10:18,138 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:10:18,139 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:10:18,150 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:10:18,193 - root - INFO - 期望值：创建成功
+2019-09-19 10:10:18,723 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,724 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,737 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,742 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,755 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,755 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,768 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,782 - root - INFO - 实际值：用户名已存在
+2019-09-19 10:10:18,795 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,795 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,807 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,813 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,825 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,826 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:10:18,838 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:10:18,850 - root - INFO -  结束执行 test_add_user 测试用例， 测试结果 --- False 
+2019-09-19 10:10:19,152 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-正常测试-异常截图_2019-09-19_10_10_18.png
+2019-09-19 10:10:22,198 - root - INFO - ==========结束执行测试用例集===========
+2019-09-19 10:28:27,160 - root - INFO - ==========开始执行测试用例集===========
+2019-09-19 10:28:37,553 - root - INFO -  执行 test_login_usernameFormat_error 测试用例 
+2019-09-19 10:28:37,553 - root - INFO -  异常测试用例：登录功能-异常测试-用户名为空 
+2019-09-19 10:28:37,553 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:37,574 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,581 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:37,599 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,599 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:37,613 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,645 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:37,663 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,669 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:37,681 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,681 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:37,694 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:37,742 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:37,759 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:37,765 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:37,777 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:37,777 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:37,790 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:37,855 - root - INFO - 期望值：参数错误
+2019-09-19 10:28:37,856 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,408 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,413 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,425 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,426 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,437 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,453 - root - INFO - 实际值：参数错误
+2019-09-19 10:28:38,454 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,466 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,472 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,485 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,485 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:38,497 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:38,508 - root - INFO -  结束执行 test_login_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:28:39,213 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-异常测试-用户名为空-正常截图_2019-09-19_10_28_38.png
+2019-09-19 10:28:42,594 - root - INFO -  执行 test_login_usernameFormat_error 测试用例 
+2019-09-19 10:28:42,595 - root - INFO -  异常测试用例：登录功能-异常测试-用户名不存在 
+2019-09-19 10:28:42,595 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:42,610 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,616 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:42,630 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,630 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:42,641 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,692 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:42,705 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,712 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:42,724 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,724 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:42,738 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:42,784 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:42,797 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:42,802 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:42,815 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:42,816 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:42,829 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:42,869 - root - INFO - 期望值：用户名不存在
+2019-09-19 10:28:42,870 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,404 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,409 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,421 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,421 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,433 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,447 - root - INFO - 实际值：用户名不存在
+2019-09-19 10:28:43,448 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,460 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,466 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,478 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,479 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:43,491 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:43,501 - root - INFO -  结束执行 test_login_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:28:44,202 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-异常测试-用户名不存在-正常截图_2019-09-19_10_28_43.png
+2019-09-19 10:28:47,540 - root - INFO -  执行 test_login_passwordFormat_error 测试用例 
+2019-09-19 10:28:47,540 - root - INFO -  异常测试用例：登录功能-异常测试-密码为空 
+2019-09-19 10:28:47,540 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:47,556 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,562 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:47,574 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,575 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:47,587 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,632 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:47,645 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,651 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:47,663 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,664 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:47,676 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:47,708 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:47,720 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:47,726 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:47,738 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:47,738 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:47,750 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:47,784 - root - INFO - 期望值：参数错误
+2019-09-19 10:28:47,784 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,310 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,316 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,328 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,328 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,341 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,355 - root - INFO - 实际值：参数错误
+2019-09-19 10:28:48,356 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,368 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,374 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,387 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,387 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:48,399 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:48,410 - root - INFO -  结束执行 test_login_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:28:49,112 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-异常测试-密码为空-正常截图_2019-09-19_10_28_48.png
+2019-09-19 10:28:52,246 - root - INFO -  执行 test_login_passwordFormat_error 测试用例 
+2019-09-19 10:28:52,247 - root - INFO -  异常测试用例：登录功能-异常测试-密码错误 
+2019-09-19 10:28:52,247 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:52,263 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,269 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:52,280 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,281 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:52,293 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,338 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:52,351 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,357 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:52,369 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,369 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:52,383 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:52,433 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:52,447 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:52,452 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:52,464 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:52,464 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:52,475 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:52,519 - root - INFO - 期望值：密码错误
+2019-09-19 10:28:52,519 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,057 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,063 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,074 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,074 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,086 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,101 - root - INFO - 实际值：密码错误
+2019-09-19 10:28:53,101 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,114 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,119 - root - INFO - 登录页面_登录功能错误信息_查找元素失败 获取元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,131 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,131 - root - INFO - 查找元素 ('class name', 'el-message__content')
+2019-09-19 10:28:53,144 - root - INFO - 等待元素 ('class name', 'el-message__content') 可见，共耗时0s 
+2019-09-19 10:28:53,155 - root - INFO -  结束执行 test_login_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:28:53,850 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-异常测试-密码错误-正常截图_2019-09-19_10_28_53.png
+2019-09-19 10:28:56,989 - root - INFO -  执行 test_login_success 测试用例 
+2019-09-19 10:28:56,990 - root - INFO -  正常登录测试用例 
+2019-09-19 10:28:56,990 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:57,005 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,010 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:57,023 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,023 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:28:57,034 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,082 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:57,094 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,100 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:57,113 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,113 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:28:57,126 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:28:57,173 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:57,186 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:57,192 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:57,204 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:57,204 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:28:57,216 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:28:57,251 - root - INFO - 期望值：True
+2019-09-19 10:28:57,774 - root - INFO - 实际值：True
+2019-09-19 10:28:57,787 - root - INFO -  结束执行 test_login_success 测试用例， 测试结果 --- PASS 
+2019-09-19 10:28:58,072 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\登录功能-正常测试-正常截图_2019-09-19_10_28_57.png
+2019-09-19 10:29:01,197 - root - INFO - ==========结束执行测试用例集===========
+2019-09-19 10:29:03,298 - root - INFO - ==========开始执行测试用例集===========
+2019-09-19 10:29:13,661 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:29:13,683 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,690 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:29:13,705 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,706 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-09-19 10:29:13,718 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,768 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:29:13,784 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,790 - root - INFO - 登录页面_登录功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:29:13,802 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,803 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-09-19 10:29:13,815 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:13,864 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:29:13,881 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:29:13,887 - root - INFO - 登录页面_登录功能_查找元素失败 点击元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:29:13,900 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:29:13,900 - root - INFO - 查找元素 ('xpath', '//*[@type="button"]')
+2019-09-19 10:29:13,913 - root - INFO - 等待元素 ('xpath', '//*[@type="button"]') 可见，共耗时0s 
+2019-09-19 10:29:16,009 - root - INFO -  执行 test_add_user 测试用例 
+2019-09-19 10:29:16,010 - root - INFO - 正常新增用户测试用例
+2019-09-19 10:29:16,010 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:16,053 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:16,059 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:16,072 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:16,073 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:16,086 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:16,156 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:16,686 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:16,693 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:16,705 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:16,705 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:16,717 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:16,782 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:16,799 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:16,805 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:16,818 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:16,818 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:16,832 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:16,907 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:16,926 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:16,932 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:16,944 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:16,945 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:16,957 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:17,053 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:17,071 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:17,077 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:17,090 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:17,091 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:17,104 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:17,192 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:17,213 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:17,219 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:17,231 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:17,231 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:17,243 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:17,284 - root - INFO - 期望值：创建成功
+2019-09-19 10:29:17,814 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,814 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,826 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,831 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,842 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,842 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,854 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,869 - root - INFO - 实际值：用户名已存在
+2019-09-19 10:29:17,883 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,883 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,895 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,900 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,912 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,912 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:17,924 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:17,934 - root - INFO -  结束执行 test_add_user 测试用例， 测试结果 --- False 
+2019-09-19 10:29:18,223 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-正常测试-异常截图_2019-09-19_10_29_17.png
+2019-09-19 10:29:21,285 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户已存在 
+2019-09-19 10:29:21,285 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:21,301 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:21,306 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:21,318 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:21,318 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:21,330 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:21,360 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:21,888 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:21,894 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:21,906 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:21,906 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:21,919 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:21,964 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:21,976 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:21,983 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:21,994 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:21,994 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:22,008 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,062 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:22,076 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,084 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:22,095 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,096 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:22,109 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,175 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:22,191 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,200 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:22,213 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,214 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:22,226 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:22,305 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:22,319 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:22,325 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:22,338 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:22,339 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:22,351 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:22,384 - root - INFO - 期望值：用户名已存在
+2019-09-19 10:29:22,907 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,907 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:22,920 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,925 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:22,936 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,936 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:22,949 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,963 - root - INFO - 实际值：用户名已存在
+2019-09-19 10:29:22,977 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,978 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:22,990 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:22,996 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:23,008 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:23,008 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:23,020 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:23,031 - root - INFO -  结束执行 test_add_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:29:23,341 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-异常测试-用户已存在-正常截图_2019-09-19_10_29_23.png
+2019-09-19 10:29:26,363 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户名为空 
+2019-09-19 10:29:26,363 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:26,377 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:26,383 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:26,395 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:26,395 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:26,407 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:26,437 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:26,452 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:26,458 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:26,471 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:26,472 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:26,484 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:26,508 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:26,521 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,526 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:26,538 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,539 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:26,552 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,606 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:26,619 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,624 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:26,638 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,638 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:26,651 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,737 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:26,751 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,757 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:26,770 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,771 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:26,783 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:26,850 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:26,862 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:26,868 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:26,880 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:26,880 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:26,893 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:26,917 - root - INFO - 期望值：用户名不能为空
+2019-09-19 10:29:27,448 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,448 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,459 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,464 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,476 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,477 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,488 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,503 - root - INFO - 实际值：用户名不能为空
+2019-09-19 10:29:27,515 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,515 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,526 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,532 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,543 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,544 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:27,557 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:27,567 - root - INFO -  结束执行 test_add_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:29:27,862 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-异常测试-用户名为空-正常截图_2019-09-19_10_29_27.png
+2019-09-19 10:29:30,884 - root - INFO -  执行 test_add_passwordFormat_error 测试用例 
+2019-09-19 10:29:30,884 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户已存在 
+2019-09-19 10:29:30,884 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:30,899 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:30,904 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:30,917 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:30,917 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:30,930 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:30,959 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:31,488 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:31,494 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:31,506 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:31,506 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:31,519 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:31,562 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:31,575 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,581 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:31,595 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,595 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:31,609 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,671 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:31,685 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,691 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:31,703 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,703 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:31,716 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,784 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:31,797 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,803 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:31,816 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,817 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:31,829 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:31,901 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:31,913 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:31,919 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:31,932 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:31,932 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:31,944 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:31,967 - root - INFO - 期望值：用户名已存在
+2019-09-19 10:29:32,493 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,494 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,506 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,511 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,522 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,522 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,535 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,550 - root - INFO - 实际值：用户名已存在
+2019-09-19 10:29:32,561 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,562 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,574 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,580 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,592 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,592 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:32,603 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:32,614 - root - INFO -  结束执行 test_add_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:29:32,906 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-异常测试-用户已存在-正常截图_2019-09-19_10_29_32.png
+2019-09-19 10:29:35,927 - root - INFO -  执行 test_add_passwordFormat_error 测试用例 
+2019-09-19 10:29:35,927 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户名为空 
+2019-09-19 10:29:35,928 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:35,942 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:35,948 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:35,960 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:35,960 - root - INFO - 查找元素 ('xpath', '//span[text()="添加按钮"]')
+2019-09-19 10:29:35,973 - root - INFO - 等待元素 ('xpath', '//span[text()="添加按钮"]') 可见，共耗时0s 
+2019-09-19 10:29:36,003 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:36,016 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:36,021 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:36,033 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:36,034 - root - INFO - 查找元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-09-19 10:29:36,047 - root - INFO - 等待元素 ('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 可见，共耗时0s 
+2019-09-19 10:29:36,072 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:36,089 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,100 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:36,111 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,112 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-09-19 10:29:36,124 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,174 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:36,189 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,194 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:36,206 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,207 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-09-19 10:29:36,217 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,279 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:36,291 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,297 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 输入元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:36,309 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,309 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-09-19 10:29:36,323 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 可见，共耗时0s 
+2019-09-19 10:29:36,391 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:36,403 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:36,409 - root - INFO - 用户列表页面_新增用户功能_查找元素失败 点击元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:36,423 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:36,423 - root - INFO - 查找元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-09-19 10:29:36,434 - root - INFO - 等待元素 ('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]') 可见，共耗时0s 
+2019-09-19 10:29:36,468 - root - INFO - 期望值：用户名不能为空
+2019-09-19 10:29:36,999 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:36,999 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,012 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,017 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,029 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,029 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,040 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,055 - root - INFO - 实际值：用户名不能为空
+2019-09-19 10:29:37,068 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,068 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,081 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,086 - root - INFO - 用户列表页面_新增用户功能消息_查找元素失败 获取元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,098 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,099 - root - INFO - 查找元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-09-19 10:29:37,110 - root - INFO - 等待元素 ('xpath', '//div[@role="alert"]/p[@class="el-message__content"]') 可见，共耗时0s 
+2019-09-19 10:29:37,120 - root - INFO -  结束执行 test_add_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-09-19 10:29:37,408 - root - INFO - 截图成功，图片路径为: C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\image\新增用户功能-异常测试-用户名为空-正常截图_2019-09-19_10_29_37.png
+2019-09-19 10:29:40,427 - root - INFO - ==========结束执行测试用例集===========
