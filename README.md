@@ -69,10 +69,7 @@
 
 以下是简单说明：
 
-
-
-
-case: pytest的参数化  fixture的使用  conftest全局和本地的配置
+    case: pytest的参数化  fixture的使用  conftest全局和本地的配置
             Cases/conftest：测试类的前置和后置，单个测试用例的前置和后置
 
             @pytest.fixture(scope='session')
