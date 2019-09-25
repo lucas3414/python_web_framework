@@ -73,8 +73,7 @@
 
 
 case: pytest的参数化  fixture的使用  conftest全局和本地的配置
-conftest：测试类的前置和后置，单个测试用例的前置和后置
-
+            Cases/conftest：测试类的前置和后置，单个测试用例的前置和后置
 
             @pytest.fixture(scope='session')
             def project_session_start():
@@ -105,9 +104,9 @@ conftest：测试类的前置和后置，单个测试用例的前置和后置
 测试用例:参数的正常和异常用例
 
 
-pytest.mark.usefixtures('start_session')
-@pytest.mark.usefixtures('refresh_page')
-class TestUserAdd:
+            pytest.mark.usefixtures('start_session')
+            @pytest.mark.usefixtures('refresh_page')
+            class TestUserAdd:
 
                 @pytest.mark.smoke
                 def test_add_user(self, start_session):
