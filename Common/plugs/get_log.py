@@ -60,4 +60,4 @@ class Log():
 
 if __name__ == '__main__':
     Log(log_path).info("adasd")
-    pass
+
