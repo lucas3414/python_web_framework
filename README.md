@@ -69,104 +69,90 @@
 
 以下是简单说明：
 
+    case: pytest的参数化  fixture的使用  conftest全局和本地的配置
+            Cases/conftest：测试类的前置和后置，单个测试用例的前置和后置
+
+            @pytest.fixture(scope='session')
+            def project_session_start():
+                logger.info("==========开始 XX项目 执行测试===========")
+                global driver
+                driver = webdriver.Chrome()
+                driver.maximize_window()
+                yield driver
+                driver.quit()
+                logger.info("==========结束 XX项目 测试===========")
+
+
+            @pytest.fixture(scope='module')
+            def project_module_start():
+                logger.info("==========开始 XX模块 执行测试===========")
+                global driver
+                driver = webdriver.Chrome()
+                driver.maximize_window()
+                yield driver
+                driver.quit()
+                logger.info("==========结束 XX模块 测试===========")
 
 
 
-case: pytest的参数化  fixture的使用  conftest全局和本地的配置
-conftest：测试类的前置和后置，单个测试用例的前置和后置
-
-
-
-
-
-    @pytest.fixture(scope='class')
-    def setUpDownClass():
-        logger.info("==========开始执行测试用例集===========")
-        global driver
-        driver = webdriver.Chrome()
-        driver.maximize_window()
-        driver.get(GD.web_login_url)
-        lg = LoginPage(driver)
-        yield (driver, lg)
-        logger.info("==========结束执行测试用例集===========")
-        driver.quit()
-
-
-    @pytest.fixture()
-    def refresh_page():
-        yield
-        driver.refresh()
-        sleep(3)
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
 
 测试用例:参数的正常和异常用例
 
 
-        @pytest.mark.usefixtures('setUpDownClass')
-        @pytest.mark.usefixtures('refresh_page')
-        class TestLogin:
+            pytest.mark.usefixtures('start_session')
+            @pytest.mark.usefixtures('refresh_page')
+            class TestUserAdd:
 
-            # 异常测试用例
-            @pytest.mark.parametrize('data', LD.error_usernameFormat_data)
-            def test_login_usernameFormat_error(self, data, setUpDownClass):
-                logger.info(" 执行 {0} 测试用例 ".format(sys._getframe().f_code.co_name))
-                logger.info(" 异常测试用例：{0} ".format(data['name']))
-                # 前置  访问登录页面
-                # 步骤  输入用户名为空  密码 点击登录
-                # 断言  登录中  提示：用户名或密码错误
-                setUpDownClass[1].login(data['username'], data['password'])
-                logger.info("期望值：{0}".format(data['errorMsg']))
-                logger.info("实际值：{0}".format(setUpDownClass[1].get_login_errMsg()))
-                try:
-                    assert setUpDownClass[1].get_login_errMsg() == data['errorMsg']
-                    logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
-                    setUpDownClass[1].save_pictuer("{0}-正常截图".format(data['name']))
-                except:
-                    logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
-                    setUpDownClass[1].save_pictuer("{0}-异常截图".format(data['name']))
-                    raise
-
-            # 异常测试用例
-            @pytest.mark.parametrize('data', LD.error_passwordFormat_data)
-            def test_login_passwordFormat_error(self, data, setUpDownClass):
-                logger.info(" 执行 {0} 测试用例 ".format(sys._getframe().f_code.co_name))
-                logger.info(" 异常测试用例：{0} ".format(data['name']))
-                # 前置  访问登录页面
-                # 步骤  输入用户名为空  密码 点击登录
-                # 断言  登录中  提示：用户名或密码错误
-
-                setUpDownClass[1].login(data['username'], data['password'])
-                logger.info("期望值：{0}".format(data['errorMsg']))
-                logger.info("实际值：{0}".format(setUpDownClass[1].get_login_errMsg()))
-                try:
-                    assert setUpDownClass[1].get_login_errMsg() == data['errorMsg']
-                    logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
-                    setUpDownClass[1].save_pictuer("{0}-正常截图".format(data['name']))
-                except:
-                    logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
-                    setUpDownClass[1].save_pictuer("{0}-异常截图".format(data['name']))
-                    raise
-
-             # 正常用例
-                @pytest.mark.lucas
                 @pytest.mark.smoke
-                def test_login_success(self, setUpDownClass):
+                def test_add_user(self, start_session):
                     logger.info(" 执行 {0} 测试用例 ".format(sys._getframe().f_code.co_name))
-                    logger.info(" 正常登录测试用例 ")
-                    # 前置  访问登录页面
-                    # 步骤  输入用户名 密码 点击登录
-                    # 断言  首页中 能否找到退出 这个元素
-                    setUpDownClass[1].login(LD.success_data['username'], LD.success_data['password'])
-                    logger.info("期望值：{0}".format(True))
-                    logger.info("实际值：{0}".format(IndexPage(setUpDownClass[0]).isExist_logout_ele()))
+                    logger.info('正常新增用户测试用例')
+                    start_session[1].add_user(UAD.success_data['username'], UAD.success_data['password'],
+                                               UAD.success_data['email'],
+                                               UAD.success_data['phone'])
+                    logger.info("期望值：{0}".format(UAD.success_data['Msg']))
+                    logger.info("实际值：{0}".format(start_session[1].get_add_result_msg()))
                     try:
-                        assert IndexPage(setUpDownClass[0]).isExist_logout_ele()
+                        assert start_session[1].get_add_result_msg() == UAD.success_data['Msg']
                         logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
-                        setUpDownClass[1].save_pictuer("{0}-正常截图".format(LD.success_data['name']))
+                        start_session[1].save_pictuer("{0}-正常截图".format(UAD.success_data['name']))
                     except:
                         logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
-                        setUpDownClass[1].save_pictuer("{0}-异常截图".format(LD.success_data['name']))
+                        start_session[1].save_pictuer("{0}-异常截图".format(UAD.success_data['name']))
+                        raise
+
+                @pytest.mark.parametrize('data', UAD.error_usernameFormat_data)
+                def test_add_usernameFormat_error(self, data, start_session):
+                    print(" 执行 {0} 测试用例 ".format(sys._getframe().f_code.co_name))
+                    logger.info(" 异常测试用例：{0} ".format(data['name']))
+                    start_session[1].add_user(data['username'], data['password'], data['email'], data['phone'])
+                    logger.info("期望值：{0}".format(data['Msg']))
+                    logger.info("实际值：{0}".format(start_session[1].get_add_result_msg()))
+                    try:
+                        assert start_session[1].get_add_result_msg() == data['Msg']
+                        logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
+                        start_session[1].save_pictuer("{0}-正常截图".format(data['name']))
+                    except:
+                        logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
+                        start_session[1].save_pictuer("{0}-异常截图".format(data['name']))
+                        raise
+
+                @pytest.mark.parametrize('data', UAD.error_usernameFormat_data)
+                def test_add_passwordFormat_error(self, data, start_session):
+                    logger.info(" 执行 {0} 测试用例 ".format(sys._getframe().f_code.co_name))
+                    logger.info(" 异常测试用例：{0} ".format(data['name']))
+                    start_session[1].add_user(data['username'], data['password'], data['email'], data['phone'])
+                    logger.info("期望值：{0}".format(data['Msg']))
+                    logger.info("实际值：{0}".format(start_session[1].get_add_result_msg()))
+                    try:
+                        assert start_session[1].get_add_result_msg() == data['Msg']
+                        logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
+                        start_session[1].save_pictuer("{0}-正常截图".format(data['name']))
+                    except:
+                        logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
+                        start_session[1].save_pictuer("{0}-异常截图".format(data['name']))
                         raise
 -------------------------------------------------------------------------------------------------------------------------------------
 -------------------------------------------------------------------------------------------------------------------------------------
