@@ -8,7 +8,6 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 conf_path = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
 log_path = r_config(conf_path, "log", "log_path")
 
-
 class Log():
 
     def __init__(self, log_path):
