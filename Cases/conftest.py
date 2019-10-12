@@ -37,3 +37,11 @@ def project_module_start():
 @pytest.fixture()
 def project_func():
     print("project_func")
+
+
+
+def pytest_configure(config):
+    # 标签名集合
+    marker_list = ['smoke']
+    for markers in marker_list:
+        config.addinivalue_line('markers', markers)
