@@ -42,6 +42,6 @@ def project_func():
 
 def pytest_configure(config):
     # 标签名集合
-    marker_list = ['smoke']
+    marker_list = ['smoke', 'lucas']
     for markers in marker_list:
         config.addinivalue_line('markers', markers)
