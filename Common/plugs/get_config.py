@@ -4,7 +4,10 @@ import sys
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
 
-conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+if sys.platform == "win32":
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+else:
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini')
 
 
 class Config(object):

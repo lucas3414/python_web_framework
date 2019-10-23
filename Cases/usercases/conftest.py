@@ -1,4 +1,4 @@
-import pytest, os
+import pytest, os, sys
 from time import sleep
 from selenium import webdriver
 from TestDatas.GobalDatas import gobal_datas as GD
@@ -10,7 +10,10 @@ from Common.plugs.get_log import Log
 from Common.plugs.get_config import r_config
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+if sys.platform == "win32":
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+else:
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini')
 log_dir = r_config(conf_dir, "log", "log_path")
 logger = Log(log_dir)
 driver = None

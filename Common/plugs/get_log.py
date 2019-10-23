@@ -1,11 +1,14 @@
 # coding=utf-8
 
-import os, time, logging
+import os, time, logging, sys
 
 from Common.plugs.get_config import r_config
 
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-conf_path = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+if sys.platform == "win32":
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
+else:
+    conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini')
 log_path = r_config(conf_path, "log", "log_path")
 
 class Log():
