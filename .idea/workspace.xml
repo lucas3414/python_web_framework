@@ -1,0 +1,670 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a781e1f-d3ac-476f-afbb-afc10f815e75" name="Default" comment="兼容性更新，框架可以在Linux/Mac/win下运行">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python_web_framework$1213.coverage" NAME="1213 Coverage Results" MODIFIED="1568808849519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/cases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$Unittests_in_test_login_py.coverage" NAME="Unittests in test_login.py Coverage Results" MODIFIED="1568723502160" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/LoginCases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$Unittests_in_test_user_add_py.coverage" NAME="Unittests in test_user_add.py Coverage Results" MODIFIED="1568767625225" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/UserCases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$basepage.coverage" NAME="basepage Coverage Results" MODIFIED="1568769904134" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common/plugs" />
+    <SUITE FILE_PATH="coverage/python_web_framework$get_config.coverage" NAME="get_config Coverage Results" MODIFIED="1568769026766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common/plugs" />
+    <SUITE FILE_PATH="coverage/python_web_framework$Unittests_for_test_login_TestLogin.coverage" NAME="Unittests for test_login.TestLogin Coverage Results" MODIFIED="1568732288902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/LoginCases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$conftest.coverage" NAME="conftest Coverage Results" MODIFIED="1569214499977" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Cases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$Unittests_for_test_user_add_TestUserAdd.coverage" NAME="Unittests for test_user_add.TestUserAdd Coverage Results" MODIFIED="1568770586344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/UserCases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$1111.coverage" NAME="1111 Coverage Results" MODIFIED="1568721037875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OutPuts" />
+    <SUITE FILE_PATH="coverage/python_web_framework$get_log.coverage" NAME="get_log Coverage Results" MODIFIED="1568769777443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common/plugs" />
+    <SUITE FILE_PATH="coverage/python_web_framework$Unittests_for_test_menu_TestMenu.coverage" NAME="Unittests for test_menu.TestMenu Coverage Results" MODIFIED="1568735548066" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TestCases/IndexCases" />
+    <SUITE FILE_PATH="coverage/python_web_framework$env.coverage" NAME="env Coverage Results" MODIFIED="1568722673438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Common" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="conftest.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cases/conftest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="basepage.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/plugs/basepage.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1161">
+              <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_login.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cases/logincases/test_login.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1971">
+              <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Common/config/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="19" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="get_config.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Common/plugs/get_config.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="243">
+              <caret line="36" selection-start-line="36" selection-end-line="46" selection-end-column="17" />
+              <folding>
+                <element signature="e#0#19#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_user_add.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Cases/usercases/test_user_add.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1728">
+              <caret line="67" selection-start-line="67" selection-end-line="67" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logging</find>
+      <find>self.lg</find>
+      <find>self.ug</find>
+      <find>--- False</find>
+      <find>exception</find>
+      <find>setUpDownClass</find>
+      <find>replace('/', '\\')</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>logger</replace>
+      <replace>setUpDownClass[1]</replace>
+      <replace>info</replace>
+      <replace>start_session</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/TestCases/UserCases/test_user_add_case.py" />
+        <option value="$PROJECT_DIR$/TestCases/IndexCases/test_click_menu.py" />
+        <option value="$PROJECT_DIR$/OutPuts/1111.py" />
+        <option value="$PROJECT_DIR$/Common/env.py" />
+        <option value="$PROJECT_DIR$/Common/basepage.py" />
+        <option value="$PROJECT_DIR$/TestCases/IndexCases/test_menu.py" />
+        <option value="$PROJECT_DIR$/Locators/UserLocators/user_locators.py" />
+        <option value="$PROJECT_DIR$/Common/utils/get_config.py" />
+        <option value="$PROJECT_DIR$/Common/get_log.py" />
+        <option value="$PROJECT_DIR$/Common/utils/get_log.py" />
+        <option value="$PROJECT_DIR$/TestCases/UserCases/test_user_add.py" />
+        <option value="$PROJECT_DIR$/TestCases/LoginCases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestCases/UserCases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestCases/LoginCases/test_login.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestUser/test_user.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestUser/conftest.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestLogin/conftest.py" />
+        <option value="$PROJECT_DIR$/TestCases/TestLogin/test_login.py" />
+        <option value="$PROJECT_DIR$/TestCases/conftest.py" />
+        <option value="$PROJECT_DIR$/Cases/UserCase/test_user.py" />
+        <option value="$PROJECT_DIR$/Cases/LoginCase/test_login.py" />
+        <option value="$PROJECT_DIR$/Cases/test_a.py" />
+        <option value="$PROJECT_DIR$/Cases/test_b.py" />
+        <option value="$PROJECT_DIR$/OutPuts/log/2019-09-18.log" />
+        <option value="$PROJECT_DIR$/cases/1213.py" />
+        <option value="$PROJECT_DIR$/cases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestDatas/GobalDatas/gobal_datas.py" />
+        <option value="$PROJECT_DIR$/cases/logincases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestDatas/LoginDatas/login_datas.py" />
+        <option value="$PROJECT_DIR$/cases/usercases/conftest.py" />
+        <option value="$PROJECT_DIR$/TestDatas/UserDatas/user_add_datas.py" />
+        <option value="$PROJECT_DIR$/cases/111111.py" />
+        <option value="$PROJECT_DIR$/cases/test_app.py" />
+        <option value="$PROJECT_DIR$/cases/usercases/test_user_add.py" />
+        <option value="$PROJECT_DIR$/PageObjects/IndexPage/index_page.py" />
+        <option value="$PROJECT_DIR$/Locators/IndexLocators/index_locators.py" />
+        <option value="$PROJECT_DIR$/cases/logincases/test_login.py" />
+        <option value="$PROJECT_DIR$/PageObjects/LoginPage/login_page.py" />
+        <option value="$PROJECT_DIR$/PageObjects/UserPage/user_page.py" />
+        <option value="$PROJECT_DIR$/Locators/LoginLocators/login_locators.py" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/OutPuts/log/2019-10-14.log" />
+        <option value="$PROJECT_DIR$/Cases/logincases/conftest.py" />
+        <option value="$PROJECT_DIR$/Cases/usercases/conftest.py" />
+        <option value="$PROJECT_DIR$/Cases/conftest.py" />
+        <option value="$PROJECT_DIR$/Common/config/config.ini" />
+        <option value="$PROJECT_DIR$/Common/plugs/get_config.py" />
+        <option value="$PROJECT_DIR$/Common/plugs/get_log.py" />
+        <option value="$PROJECT_DIR$/Common/plugs/basepage.py" />
+        <option value="$PROJECT_DIR$/Cases/logincases/test_login.py" />
+        <option value="$PROJECT_DIR$/Cases/usercases/test_user_add.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_web_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_framework" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Cases" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_web_framework" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_web_framework" type="462c0819:PsiDirectoryNode" />
+              <item name="Common" type="462c0819:PsiDirectoryNode" />
+              <item name="plugs" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/OutPuts/log/2019-10-14.log&#10;C:/Users/lucas/PycharmProjects/python_web_framework/.gitignore" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\cases\logincases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\cases\usercases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\TestCases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\TestCases\UserCases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\TestCases\LoginCases" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\OutPuts\reports" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\cases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\cases\usercases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\cases\logincases" />
+      <recent name="C:\Users\lucas\PycharmProjects\python_web_framework\TestCases" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.conftest">
+    <configuration name="conftest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_web_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Cases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cases/conftest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="Unittests for TestCases.test_user_add.TestUserAdd" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_web_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases/UserCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;TestCases.test_user_add.TestUserAdd&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Unittests in C:/Users/lucas/PycharmProjects/python_web_framework/TestCases/LoginCases/test_login.py" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="python_web_framework" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/TestCases/LoginCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/TestCases/LoginCases/test_login.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list>
+      <item itemvalue="Python tests.Unittests for TestCases.test_user_add.TestUserAdd" />
+      <item itemvalue="Python tests.Unittests in C:/Users/lucas/PycharmProjects/python_web_framework/TestCases/LoginCases/test_login.py" />
+      <item itemvalue="Python.conftest" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.conftest" />
+        <item itemvalue="Python tests.Unittests in C:/Users/lucas/PycharmProjects/python_web_framework/TestCases/LoginCases/test_login.py" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a781e1f-d3ac-476f-afbb-afc10f815e75" name="Default" comment="" />
+      <created>1568698149508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568698149508</updated>
+    </task>
+    <task id="LOCAL-00001" summary="更新配置，解决标记的报警">
+      <created>1570897629975</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1570897629975</updated>
+    </task>
+    <task id="LOCAL-00002" summary="更新配置">
+      <created>1570898047983</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570898047983</updated>
+    </task>
+    <task id="LOCAL-00003" summary="更新标记配置">
+      <created>1571050023395</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1571050023395</updated>
+    </task>
+    <task id="LOCAL-00004" summary="更新标记配置">
+      <created>1571848949399</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1571848949400</updated>
+    </task>
+    <task id="LOCAL-00005" summary="优化日志输出，兼容性更新，框架可以在Linux/Mac/win下运行">
+      <created>1572093054417</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1572093054417</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_in_test_user_add_py - 2019.09.18 at 08h 47m 40s.xml">
+      <configuration name="Unittests in test_user_add.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 28m 00s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 28m 40s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 28m 55s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 29m 03s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 29m 16s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 30m 08s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 33m 05s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 36m 23s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_user_add_TestUserAdd - 2019.09.18 at 09h 37m 25s.xml">
+      <configuration name="Unittests for test_user_add.TestUserAdd" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.35722286" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2206047" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.36730123" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.119936034" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5167785" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32997763" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.2867804" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="1" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="1" weight="0.35722286" />
+      <window_info anchor="bottom" id="Run" order="8" weight="0.2206047" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32997763" />
+      <window_info anchor="bottom" id="Python Console" order="3" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5167785" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.9675252" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="0" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info id="Favorites" order="0" side_tool="true" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新配置，解决标记的报警" />
+    <MESSAGE value="更新配置" />
+    <MESSAGE value="更新标记配置" />
+    <MESSAGE value="优化日志输出，兼容性更新，框架可以在Linux/Mac/win下运行" />
+    <option name="LAST_COMMIT_MESSAGE" value="优化日志输出，兼容性更新，框架可以在Linux/Mac/win下运行" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="20" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录页面_登录功能_查找元素失败_2019-09-23_11_28_09.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-正常测试-正常截图_2019-09-23_12_14_56.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-用户名为空-正常截图_2019-09-23_12_14_37.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-用户名不存在-正常截图_2019-09-23_12_14_41.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-密码错误-正常截图_2019-09-23_12_14_51.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-密码为空-正常截图_2019-09-23_12_14_46.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-正常测试-异常截图_2019-09-23_12_15_24.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户已存在-正常截图_2019-09-23_12_15_38.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户已存在-正常截图_2019-09-23_12_15_29.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户名为空-正常截图_2019-09-23_12_15_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户名为空-正常截图_2019-09-23_12_15_43.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-正常测试-异常截图_2019-09-23_12_23_35.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-正常测试-正常截图_2019-09-23_12_23_27.png" />
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/_pytest/fixtures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="1017" column="64" selection-start-line="1017" selection-start-column="58" selection-end-line="1017" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutPuts/log/2019-09-23.log" />
+    <entry file="file://$PROJECT_DIR$/.git/info/exclude">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3604">
+          <caret line="60" column="12" selection-start-line="60" selection-start-column="12" selection-end-line="60" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/OutPuts/log/2019-10-14.log" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-密码为空-正常截图_2019-10-14_18_44_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-密码错误-正常截图_2019-10-14_18_44_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-用户名不存在-正常截图_2019-10-14_18_44_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-异常测试-用户名为空-正常截图_2019-10-14_18_44_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/登录功能-正常测试-正常截图_2019-10-14_18_44_34.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-正常测试-异常截图_2019-10-14_18_44_43.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户已存在-正常截图_2019-10-14_18_44_43.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户已存在-异常截图_2019-10-14_18_44_43.png" />
+    <entry file="file://$PROJECT_DIR$/OutPuts/image/新增用户功能-异常测试-用户名为空-正常截图_2019-10-14_18_44_43.png" />
+    <entry file="file://D:/Python/Lib/site-packages/_pytest/mark/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/selenium/webdriver/chrome/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="32" column="52" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/pytest/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2808">
+          <caret line="104" column="39" selection-start-line="104" selection-start-column="30" selection-end-line="104" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/_pytest/mark/structures.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="140" column="16" selection-start-line="140" selection-start-column="12" selection-end-line="140" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Python/Lib/site-packages/pytest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="29" selection-start-line="18" selection-start-column="29" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cases/logincases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cases/usercases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="65" selection-start-line="15" selection-start-column="65" selection-end-line="15" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/IndexLocators/index_locators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/LoginLocators/login_locators.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="70" selection-start-line="4" selection-start-column="70" selection-end-line="4" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Locators/UserLocators/user_locators.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/UserPage/user_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDatas/GobalDatas/gobal_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDatas/LoginDatas/login_datas.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/IndexPage/index_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/PageObjects/LoginPage/login_page.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TestDatas/UserDatas/user_add_datas.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/plugs/get_log.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108">
+          <caret line="11" column="48" lean-forward="true" selection-start-line="11" selection-start-column="48" selection-end-line="11" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/plugs/basepage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1161">
+          <caret line="47" column="12" selection-start-line="47" selection-start-column="12" selection-end-line="47" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cases/usercases/test_user_add.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1728">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cases/conftest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" selection-start-line="8" selection-end-line="11" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Cases/logincases/test_login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1971">
+          <caret line="79" column="24" selection-start-line="79" selection-start-column="24" selection-end-line="79" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/config/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" column="19" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Common/plugs/get_config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="36" selection-start-line="36" selection-end-line="46" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#19#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
