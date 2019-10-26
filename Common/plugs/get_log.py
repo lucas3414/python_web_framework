@@ -9,7 +9,8 @@ if sys.platform == "win32":
     conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini').replace('/', '\\')
 else:
     conf_dir = os.path.join(BASE_DIR, 'Common/config/config.ini')
-log_path = r_config(conf_path, "log", "log_path")
+log_path = r_config(conf_dir, "log", "log_path")
+
 
 class Log():
 
@@ -62,4 +63,3 @@ class Log():
 
 if __name__ == '__main__':
     Log(log_path).info("adasd")
-

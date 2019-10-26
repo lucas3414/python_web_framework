@@ -30,7 +30,7 @@ class TestUserAdd:
             logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-正常截图".format(UAD.success_data['name']))
         except:
-            logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
+            logger.error(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-异常截图".format(UAD.success_data['name']))
             raise
 
@@ -46,7 +46,7 @@ class TestUserAdd:
             logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-正常截图".format(data['name']))
         except:
-            logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
+            logger.error(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-异常截图".format(data['name']))
             raise
 
@@ -62,6 +62,6 @@ class TestUserAdd:
             logger.info(" 结束执行 {0} 测试用例， 测试结果 --- PASS ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-正常截图".format(data['name']))
         except:
-            logger.info(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
+            logger.error(" 结束执行 {0} 测试用例， 测试结果 --- False ".format(sys._getframe().f_code.co_name))
             start_session[1].save_pictuer("{0}-异常截图".format(data['name']))
             raise

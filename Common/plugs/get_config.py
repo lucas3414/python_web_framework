@@ -38,7 +38,10 @@ def r_config(config_file_path, field, key):
     rf = configparser.ConfigParser()
     try:
         rf.read(config_file_path, encoding='utf-8')
-        result = rf.get(field, key)
+        if sys.platform == "win32":
+            result = rf.get(field, key).replace('base_dir', str(BASE_DIR)).replace('/', '\\')
+        else:
+            result = rf.get(field, key).replace('base_dir', str(BASE_DIR))
     except:
         sys.exit(1)
     return result
@@ -57,5 +60,4 @@ def w_config(config_file_path, field, key, value):
 
 if __name__ == '__main__':
     b = r_config(conf_dir, 'image', 'img_path')
-
-
+    print(b)
