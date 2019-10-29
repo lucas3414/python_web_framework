@@ -1,0 +1,314 @@
+2019-10-29 12:16:08,280 - root - INFO - ==========开始 XX项目 执行测试===========
+2019-10-29 12:16:17,443 - root - INFO - ==========开始执行测试用例集===========
+2019-10-29 12:16:17,445 - root - INFO - ----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="96ddaae1f2edfa82a210d0ad14816f7e")>
+2019-10-29 12:16:18,652 - root - INFO -  执行 test_login_usernameFormat_error 测试用例 
+2019-10-29 12:16:18,652 - root - INFO -  异常测试用例：登录功能-异常测试-用户名为空 
+2019-10-29 12:16:18,652 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 
+2019-10-29 12:16:18,672 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:18,673 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:18,688 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:18,720 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:18,737 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:18,738 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:18,750 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:18,801 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:18,801 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:18,816 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:18,860 - root - INFO - 期望值：参数错误
+2019-10-29 12:16:18,860 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:19,395 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:19,395 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:19,407 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:19,421 - root - INFO - 实际值：参数错误
+2019-10-29 12:16:19,421 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:19,432 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:19,432 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:19,444 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:19,454 - root - INFO -  结束执行 test_login_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:20,173 - root - INFO - 登录功能-异常测试-用户名为空-正常截图截图成功，图片路径为: 登录功能-异常测试-用户名为空-正常截图
+2019-10-29 12:16:23,184 - root - INFO -  执行 test_login_usernameFormat_error 测试用例 
+2019-10-29 12:16:23,184 - root - INFO -  异常测试用例：登录功能-异常测试-用户名不存在 
+2019-10-29 12:16:23,185 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 xxoo
+2019-10-29 12:16:23,199 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:23,199 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:23,210 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:23,252 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:23,265 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:23,265 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:23,276 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:23,318 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:23,318 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:23,330 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:23,377 - root - INFO - 期望值：用户名不存在
+2019-10-29 12:16:23,377 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:23,937 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:23,937 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:23,950 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:23,966 - root - INFO - 实际值：用户名不存在
+2019-10-29 12:16:23,966 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:23,977 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:23,978 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:23,988 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:23,999 - root - INFO -  结束执行 test_login_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:24,730 - root - INFO - 登录功能-异常测试-用户名不存在-正常截图截图成功，图片路径为: 登录功能-异常测试-用户名不存在-正常截图
+2019-10-29 12:16:27,742 - root - INFO -  执行 test_login_passwordFormat_error 测试用例 
+2019-10-29 12:16:27,742 - root - INFO -  异常测试用例：登录功能-异常测试-密码为空 
+2019-10-29 12:16:27,742 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 admin
+2019-10-29 12:16:27,758 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:27,758 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:27,770 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:27,814 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 
+2019-10-29 12:16:27,827 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:27,827 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:27,839 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:27,867 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:27,867 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:27,880 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:27,925 - root - INFO - 期望值：参数错误
+2019-10-29 12:16:27,925 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:28,452 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:28,453 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:28,464 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:28,479 - root - INFO - 实际值：参数错误
+2019-10-29 12:16:28,479 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:28,491 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:28,491 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:28,504 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:28,513 - root - INFO -  结束执行 test_login_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:29,233 - root - INFO - 登录功能-异常测试-密码为空-正常截图截图成功，图片路径为: 登录功能-异常测试-密码为空-正常截图
+2019-10-29 12:16:32,358 - root - INFO -  执行 test_login_passwordFormat_error 测试用例 
+2019-10-29 12:16:32,358 - root - INFO -  异常测试用例：登录功能-异常测试-密码错误 
+2019-10-29 12:16:32,358 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 admin
+2019-10-29 12:16:32,372 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:32,372 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:32,385 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:32,428 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 1234567
+2019-10-29 12:16:32,441 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:32,442 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:32,455 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:32,500 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:32,500 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:32,512 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:32,559 - root - INFO - 期望值：密码错误
+2019-10-29 12:16:32,559 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:33,078 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:33,078 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:33,089 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:33,103 - root - INFO - 实际值：密码错误
+2019-10-29 12:16:33,104 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,获取页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:33,116 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:33,116 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,查找页面元素:('class name', 'el-message__content')
+2019-10-29 12:16:33,128 - root - INFO - 登录页面_登录功能错误信息_获取错误信息,等待页面元素:('class name', 'el-message__content'):可见，共耗时0s 
+2019-10-29 12:16:33,138 - root - INFO -  结束执行 test_login_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:33,864 - root - INFO - 登录功能-异常测试-密码错误-正常截图截图成功，图片路径为: 登录功能-异常测试-密码错误-正常截图
+2019-10-29 12:16:36,993 - root - INFO -  执行 test_login_success 测试用例 
+2019-10-29 12:16:36,993 - root - INFO -  正常登录测试用例 
+2019-10-29 12:16:36,993 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 admin
+2019-10-29 12:16:37,009 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:37,009 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:37,021 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:37,063 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:37,075 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:37,075 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:37,087 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:37,130 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:37,130 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:37,142 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:37,175 - root - INFO - 期望值：True
+2019-10-29 12:16:37,698 - root - INFO - 实际值：True
+2019-10-29 12:16:37,710 - root - INFO -  结束执行 test_login_success 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:37,972 - root - INFO - 登录功能-正常测试-正常截图截图成功，图片路径为: 登录功能-正常测试-正常截图
+2019-10-29 12:16:41,091 - root - INFO - ==========结束执行测试用例集===========
+2019-10-29 12:16:41,109 - root - INFO - ==========开始执行测试用例集===========
+2019-10-29 12:16:41,109 - root - INFO - ----------------------------------------------------------------------------------<selenium.webdriver.chrome.webdriver.WebDriver (session="96ddaae1f2edfa82a210d0ad14816f7e")>
+2019-10-29 12:16:41,133 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input') 输入值 admin
+2019-10-29 12:16:41,148 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:41,148 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input')
+2019-10-29 12:16:41,161 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[1]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:41,204 - root - INFO - 登录页面_登录功能,页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:41,216 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:41,216 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input')
+2019-10-29 12:16:41,228 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@id="app"]/div/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:41,273 - root - INFO - 登录页面_登录功能,点击页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:41,273 - root - INFO - 登录页面_登录功能,查找页面元素:('xpath', '//*[@type="button"]')
+2019-10-29 12:16:41,286 - root - INFO - 登录页面_登录功能,等待页面元素:('xpath', '//*[@type="button"]'):可见，共耗时0s 
+2019-10-29 12:16:43,425 - root - INFO -  执行 test_add_user 测试用例 
+2019-10-29 12:16:43,425 - root - INFO - 正常新增用户测试用例
+2019-10-29 12:16:43,425 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:43,425 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:43,461 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//span[text()="添加按钮"]'):可见，共耗时0s 
+2019-10-29 12:16:43,538 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 输入值 haha
+2019-10-29 12:16:44,069 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:44,070 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-10-29 12:16:44,082 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:44,141 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:44,162 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,162 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-10-29 12:16:44,189 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,266 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 输入值 123@qq.com
+2019-10-29 12:16:44,282 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,282 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-10-29 12:16:44,295 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,389 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 输入值 13776787676
+2019-10-29 12:16:44,404 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,405 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-10-29 12:16:44,417 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:44,508 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:44,508 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:44,525 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]'):可见，共耗时0s 
+2019-10-29 12:16:44,557 - root - INFO - 期望值：创建成功
+2019-10-29 12:16:44,558 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:45,100 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:45,101 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:45,114 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:45,130 - root - INFO - 实际值：创建成功
+2019-10-29 12:16:45,131 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:45,142 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:45,143 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:45,154 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:45,164 - root - INFO -  结束执行 test_add_user 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:45,430 - root - INFO - 新增用户功能-正常测试-正常截图截图成功，图片路径为: 新增用户功能-正常测试-正常截图
+2019-10-29 12:16:48,443 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户已存在 
+2019-10-29 12:16:48,443 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:48,443 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:48,456 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//span[text()="添加按钮"]'):可见，共耗时0s 
+2019-10-29 12:16:48,488 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 输入值 haha
+2019-10-29 12:16:49,018 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:49,018 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-10-29 12:16:49,030 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:49,073 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:49,087 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,087 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-10-29 12:16:49,100 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,169 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 输入值 123@qq.com
+2019-10-29 12:16:49,180 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,180 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-10-29 12:16:49,191 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,259 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 输入值 13776787676
+2019-10-29 12:16:49,273 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,273 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-10-29 12:16:49,284 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:49,362 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:49,363 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:49,374 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]'):可见，共耗时0s 
+2019-10-29 12:16:49,408 - root - INFO - 期望值：用户名已存在
+2019-10-29 12:16:49,409 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:49,932 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:49,932 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:49,944 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:49,958 - root - INFO - 实际值：用户名已存在
+2019-10-29 12:16:49,958 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:49,970 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:49,970 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:49,983 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:49,992 - root - INFO -  结束执行 test_add_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:50,279 - root - INFO - 新增用户功能-异常测试-用户已存在-正常截图截图成功，图片路径为: 新增用户功能-异常测试-用户已存在-正常截图
+2019-10-29 12:16:53,287 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户名为空 
+2019-10-29 12:16:53,288 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:53,288 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:53,301 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//span[text()="添加按钮"]'):可见，共耗时0s 
+2019-10-29 12:16:53,328 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 输入值 
+2019-10-29 12:16:53,341 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:53,341 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-10-29 12:16:53,353 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:53,374 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:53,385 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,386 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-10-29 12:16:53,399 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,452 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 输入值 123@qq.com
+2019-10-29 12:16:53,463 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,464 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-10-29 12:16:53,475 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,547 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 输入值 13776787676
+2019-10-29 12:16:53,559 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,559 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-10-29 12:16:53,571 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:53,667 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:53,668 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:53,680 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]'):可见，共耗时0s 
+2019-10-29 12:16:53,709 - root - INFO - 期望值：用户名不能为空
+2019-10-29 12:16:53,709 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:54,238 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:54,238 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:54,249 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:54,263 - root - INFO - 实际值：用户名不能为空
+2019-10-29 12:16:54,264 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:54,275 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:54,275 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:54,287 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:54,296 - root - INFO -  结束执行 test_add_usernameFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:54,577 - root - INFO - 新增用户功能-异常测试-用户名为空-正常截图截图成功，图片路径为: 新增用户功能-异常测试-用户名为空-正常截图
+2019-10-29 12:16:58,001 - root - INFO -  执行 test_add_passwordFormat_error 测试用例 
+2019-10-29 12:16:58,001 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户已存在 
+2019-10-29 12:16:58,002 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:58,002 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:16:58,019 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//span[text()="添加按钮"]'):可见，共耗时0s 
+2019-10-29 12:16:58,049 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 输入值 haha
+2019-10-29 12:16:58,576 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:58,577 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-10-29 12:16:58,588 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:16:58,628 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:16:58,641 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,641 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-10-29 12:16:58,652 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,704 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 输入值 123@qq.com
+2019-10-29 12:16:58,716 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,716 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-10-29 12:16:58,728 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,798 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 输入值 13776787676
+2019-10-29 12:16:58,809 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,810 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-10-29 12:16:58,820 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:16:58,913 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:58,913 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:16:58,927 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]'):可见，共耗时0s 
+2019-10-29 12:16:58,968 - root - INFO - 期望值：用户名已存在
+2019-10-29 12:16:58,969 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:59,494 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:59,494 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:59,507 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:59,521 - root - INFO - 实际值：用户名已存在
+2019-10-29 12:16:59,521 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:59,533 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:59,534 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:16:59,544 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:16:59,554 - root - INFO -  结束执行 test_add_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:16:59,829 - root - INFO - 新增用户功能-异常测试-用户已存在-正常截图截图成功，图片路径为: 新增用户功能-异常测试-用户已存在-正常截图
+2019-10-29 12:17:02,837 - root - INFO -  执行 test_add_passwordFormat_error 测试用例 
+2019-10-29 12:17:02,837 - root - INFO -  异常测试用例：新增用户功能-异常测试-用户名为空 
+2019-10-29 12:17:02,838 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:17:02,838 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//span[text()="添加按钮"]')
+2019-10-29 12:17:02,850 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//span[text()="添加按钮"]'):可见，共耗时0s 
+2019-10-29 12:17:02,879 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input') 输入值 
+2019-10-29 12:17:03,420 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:17:03,420 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input')
+2019-10-29 12:17:03,431 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//div[@aria-label="添加用户"]/div[@class="el-dialog__body"]/form/div[1]//input'):可见，共耗时0s 
+2019-10-29 12:17:03,450 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input') 输入值 123456
+2019-10-29 12:17:03,463 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,463 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input')
+2019-10-29 12:17:03,475 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[2]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,524 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input') 输入值 123@qq.com
+2019-10-29 12:17:03,538 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,539 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input')
+2019-10-29 12:17:03,551 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[3]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,620 - root - INFO - 用户列表页面_新增用户功能,页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input') 输入值 13776787676
+2019-10-29 12:17:03,632 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,632 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input')
+2019-10-29 12:17:03,645 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[2]/form/div[4]/div/div/input'):可见，共耗时0s 
+2019-10-29 12:17:03,716 - root - INFO - 用户列表页面_新增用户功能,点击页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:17:03,717 - root - INFO - 用户列表页面_新增用户功能,查找页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]')
+2019-10-29 12:17:03,729 - root - INFO - 用户列表页面_新增用户功能,等待页面元素:('xpath', '//*[@id="app"]/section/section/main/div/div/div[5]/div/div[3]/div/button[2]'):可见，共耗时0s 
+2019-10-29 12:17:03,757 - root - INFO - 期望值：用户名不能为空
+2019-10-29 12:17:03,758 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:17:04,288 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:17:04,289 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:17:04,300 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:17:04,315 - root - INFO - 实际值：用户名不能为空
+2019-10-29 12:17:04,315 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,获取页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:17:04,327 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:17:04,327 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,查找页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]')
+2019-10-29 12:17:04,338 - root - INFO - 用户列表页面_新增用户功能_获取新增结果信息,等待页面元素:('xpath', '//div[@role="alert"]/p[@class="el-message__content"]'):可见，共耗时0s 
+2019-10-29 12:17:04,349 - root - INFO -  结束执行 test_add_passwordFormat_error 测试用例， 测试结果 --- PASS 
+2019-10-29 12:17:04,627 - root - INFO - 新增用户功能-异常测试-用户名为空-正常截图截图成功，图片路径为: 新增用户功能-异常测试-用户名为空-正常截图
+2019-10-29 12:17:07,633 - root - INFO - ==========结束执行测试用例集===========
+2019-10-29 12:17:09,696 - root - INFO - ==========结束 XX项目 测试===========
