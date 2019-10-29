@@ -5,7 +5,7 @@ from Common.plugs.basepage import BasePage
 class UserPage(BasePage):
 
     def add_user(self, username, password, email, phone):
-        doc = '用户列表页面_新增用户功能_查找元素失败'
+        doc = '用户列表页面_新增用户功能'
         self.click_element(loc.user_add_btn, doc)
         self.input_element(loc.user_add_dialog_username, username, doc)
         self.input_element(loc.user_add_dialog_password, password, doc)
@@ -14,6 +14,6 @@ class UserPage(BasePage):
         self.click_element(loc.user_add_dialog_confirm_btn, doc)
 
     def get_add_result_msg(self):
-        doc = '用户列表页面_新增用户功能消息_查找元素失败'
-        self.wait_eleVisible(loc.user_add_dialog_msg, doc)
+        doc = '用户列表页面_新增用户功能_获取新增结果信息'
+        # self.wait_eleVisible(loc.user_add_dialog_msg, doc)
         return self.get_element_text(loc.user_add_dialog_msg, doc)
